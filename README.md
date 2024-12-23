@@ -4,7 +4,7 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
     <div style="display: flex; justify-content: center;">
         <img style="display: block; -webkit-user-select: none; margin: auto; cursor: zoom-in; background-color: hsl(0, 0%, 90%); max-width: 100%; max-height: 100%;" 
-             src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="975" height="681" alt="Coding Animation">
+             src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYxOGx2eWN0Znk4cHgzMjk4dXc0NnlxZ256ZXQwdm1nbXMwZHBmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp" width="975" height="681" alt="Coding Animation">
     </div>
 </div>
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <h6>Programming Languages</h6>
+  <h6>Programming & Framework</h6>
 <div>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://laravel.com"><img src="https://seeklogo.com/images/L/laravel-logo-466B2DF6E2-seeklogo.com.png" height="40"/></a>
